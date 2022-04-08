@@ -22,7 +22,7 @@
   <img src="https://cdn.discordapp.com/attachments/878469526117810217/962128129772638298/unknown.png" width="40" height="40"/>  
 </p>
 
-### Connect with me <img src="https://media.giphy.com/media/1wpNPWF6p9f2tzIofn/giphy.gif" width="40"/>
+### Connect with me <img src="https://media.giphy.com/media/RImnzu65CsA3fc6u5f/giphy.gif" width="60"/>
 <h3 align="center">
   Add me on <a href="https://www.linkedin.com/in/kara-huynh/">LinkedIn</a> or feel free to send me an email at <a href="mailto:karahuynh122@gmail.com">karahuynh122@gmail.com!</a>
 </h3>
