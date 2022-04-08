@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello, I'm Kara Huynh :wave:
+  Welcome to my Github! :wave:
 </h1>
 
 ### About Me <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif" width="35">
