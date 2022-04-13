@@ -7,7 +7,7 @@
 💻 print("I'm currently a second year Computer Science Co-op student at Ryerson University")
 🎵 print("I enjoy singing, coding, and gaming (valorant all the way!)")
 ❤️ currentInterests = ['software development', 'web development']
-🌸 languagesIknow = 7
+🌸 favouriteLanguage = "Python"
 ```
 
 ### Languages and Tools <img src="https://media.giphy.com/media/FMnVZzDALopvG/giphy.gif" width="30"/>
