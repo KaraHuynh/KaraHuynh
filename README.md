@@ -4,7 +4,7 @@
 
 ### About Me <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif" width="35"/>
 ```python
-💻 print("I'm currently a second year Computer Science Co-op student at Ryerson University")
+💻 print("I'm an incoming third year Computer Science Co-op student at Ryerson University")
 🎵 print("I enjoy singing, coding, and gaming (valorant all the way!)")
 ❤️ currentInterests = ['software development', 'web development']
 🌸 favouriteLanguage = "Python"
