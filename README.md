@@ -11,7 +11,7 @@
 ```
 
 ### Languages and Tools <img src="https://media.giphy.com/media/FMnVZzDALopvG/giphy.gif" width="30"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
   ![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
