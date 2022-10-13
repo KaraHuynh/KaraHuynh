@@ -6,7 +6,7 @@
 ```python
 💻 print("I'm a third year Computer Science Co-op student at Ryerson University")
 🎵 print("I enjoy singing, coding, and gaming (valorant all the way!)")
-❤️ currentInterests = ['software development', 'web development']
+❤️ currentInterests = ['software development', 'web development', 'cybersecurity']
 🌸 favouriteLanguage = "Python"
 ```
 
