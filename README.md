@@ -29,7 +29,7 @@
 
 ### Connect with me <img src="https://media.giphy.com/media/RImnzu65CsA3fc6u5f/giphy.gif" width="60"/>
 <h3 align="center">
-  Add me on <a href="https://www.linkedin.com/in/kara-huynh/">LinkedIn</a> or feel free to send me an email at <a href="mailto:kara.huynh@ryerson.ca">kara.huynh@ryerson.ca!</a>
+  Add me on <a href="https://www.linkedin.com/in/kara-huynh/">LinkedIn</a> or feel free to send me an email at <a href="mailto:kara.huynh@torontomu.ca">kara.huynh@torontomu.ca!</a>
  
 </h3>
 
