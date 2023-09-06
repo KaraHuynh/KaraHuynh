@@ -18,7 +18,7 @@
 </p>
 
 
-### Connect with me <img src="https://media.giphy.com/media/RImnzu65CsA3fc6u5f/giphy.gif" width="60"/>
+### Connect with me <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBwa2poMXh4YmtscGE5NmdsbGhmZjR1MmQ3NGl4cjJvM2N0czU5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f940860erOHsGoaNlb/giphy.gif" width="35"/>
 <h3 align="center">
   Add me on <a href="https://www.linkedin.com/in/kara-huynh/">LinkedIn</a> or feel free to send me an email at <a href="mailto:kara.huynh@torontomu.ca">kara.huynh@torontomu.ca!</a>
  
