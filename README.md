@@ -4,10 +4,10 @@
 
 ### About Me <img src="https://media.giphy.com/media/oz45ELYgMoYVsZqmor/giphy.gif" width="35"/>
 ```python
-💻 print("I'm a fourth year Computer Science Co-op student at Ryerson University")
+💻 print("I'm a recent Computer Science graduate from TMU")
 🎵 print("I enjoy singing, coding, and gaming (valorant all the way!)")
-❤️ currentInterests = ['software development', 'web development', 'cybersecurity']
-🌸 favouriteLanguage = "TypeScript"
+❤️ currentInterests = ['data analysis', 'software development', 'web development']
+🌸 favouriteLanguage = "Python"
 ```
 
 ### Languages and Tools <img src="https://media.giphy.com/media/FMnVZzDALopvG/giphy.gif" width="30"/>
